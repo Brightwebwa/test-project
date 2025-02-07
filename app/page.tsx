@@ -7,7 +7,7 @@ export default function Home() {
       <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
         <div className="logo-sec"><Image src={Logo} alt="Bright" /></div>
         <div className="sec2">
-        <h1>Launcing soon..</h1></div>
+        <h1>Launching soon..</h1></div>
 
        
       </main>
