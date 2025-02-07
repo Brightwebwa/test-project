@@ -24,11 +24,22 @@ body {
 h1{
   font-size:18px;
   font-weight:bold;
+  text-align: center;
 }
 
 
-
+.logo-sec{
+  display: flex;
+  justify-content: center;
+}
 
 .logo-sec img{
   width:20%;
+}
+
+.sec2{
+  display: block;
+  width:100%;
+  margin:auto;
+  text-align: center;;
 }
