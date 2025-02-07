@@ -43,3 +43,9 @@ h1{
   margin:auto;
   text-align: center;;
 }
+
+@media screen and (max-width:767px){
+  .logo-sec img{
+    width:50%;
+  }
+}
